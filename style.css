@@ -1,0 +1,79 @@
+body
+{
+    margin: 0;
+}
+
+h1
+{
+    margin: 0;
+}
+
+h2
+{
+    margin: 0;
+}
+
+p
+{
+    margin: 0;
+}
+
+.placeOfInstruction
+{
+    margin: 0;
+    background-color: pink;
+    text-align: center;
+}
+
+.title
+{
+    color: lightblue;
+}
+
+.placeOfTile
+{
+    background-color: lightblue;
+
+}
+
+.tile
+{
+    background-color: black;
+    height: 30px;
+    width: 30px;
+}
+
+.redTile
+{
+    background-color: red;
+    display: inline-block;
+}
+
+.greenTile
+{
+    background-color: greenyellow;
+    display: inline-block;
+}
+
+.blueTile
+{
+    background-color: blue;
+    display: inline-block;
+}
+
+.yellowTile
+{
+    background-color: orange;
+    display: inline-block;
+}
+
+.tileRow
+{
+    text-align: center;
+}
+
+.placeOfStartBtn
+{
+    background-color: hotpink;
+    text-align: center;
+}
