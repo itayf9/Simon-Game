@@ -30,6 +30,16 @@ p
     color: lightblue;
 }
 
+.levelTitle
+{
+    color: red;
+}
+
+.levelVal
+{
+    color: darkslateblue;
+}
+
 .placeOfTile
 {
     background-color: lightblue;
@@ -41,6 +51,11 @@ p
     background-color: black;
     height: 30px;
     width: 30px;
+}
+
+.tile:active
+{
+    background-color: darkslateblue;
 }
 
 .redTile
@@ -76,4 +91,9 @@ p
 {
     background-color: hotpink;
     text-align: center;
+}
+
+.startBtn
+{
+    color: darkslateblue;
 }
